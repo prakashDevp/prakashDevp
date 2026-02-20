@@ -62,7 +62,14 @@ Passionate about learning new technologies and developing impactful software sol
 - Implemented ride allocation based on availability and earnings
 - Managed booking lifecycle and fare calculation
 - Used Java Collections for in-memory data handling
+  
 
+###  Employee Management System (CRUD Operation) 
+
+- Java, Spring Boot, JPA, MySQL
+- REST APIs with CRUD operations
+- Employee add, update, delete & view features
+- Exception handling and validation implemented
 ---
 
 ## 🎓 Education
