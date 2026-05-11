@@ -1,85 +1,147 @@
 # Hi 👋 I'm Prakash K
 
-💻 Aspiring Software Developer | Java | Spring Boot | REST APIs | JDBC | Hibernate | MySQL | ASP.NET Core (Basics)
+🚀 Cloud & DevOps Enthusiast | Software Developer | AWS | Java | Spring Boot | CI/CD | Docker | Terraform
+
+Passionate about building scalable cloud infrastructure, automating deployments, and developing backend applications using modern DevOps practices. I enjoy solving real-world problems through cloud technologies, infrastructure automation, and software engineering.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Entry-level Software Developer with knowledge of Java and .NET technologies.  
-Strong in Object-Oriented Programming and backend development with experience building RESTful APIs and database-driven applications.  
-Passionate about learning new technologies and developing impactful software solutions.
+Entry-level Cloud & DevOps Engineer with strong interest in AWS cloud architecture, infrastructure automation, CI/CD pipelines, and backend application development.
 
----
+Experienced in developing Java Spring Boot applications, deploying applications on AWS, containerizing services using Docker, and automating infrastructure using Terraform and Ansible.
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-- ☕ Java
-- 🔷 C#
-
-### 🌐 Web Basics
-- 🌐 HTML
-- 🎨 CSS
-- 🔗 REST APIs
-
-### 💻 Backend Frameworks
-- 🌱 Spring Boot (Basics)
-- ⚙️ ASP.NET Core (Basics)
-
-### 🗄️ Database
-- 🐬 MySQL
-- 🧾 Oracle SQL
-
-### 🔧 Database Access & ORM
-- 🔌 JDBC
-- 🧩 Hibernate ORM
-- 🧱 Entity Framework (Basics)
-
-### 🧰 Tools & Platforms
-- 🐙 Git & GitHub
-- 💻 Eclipse IDE
-- 🧑‍💻 VS Code
-- 📮 Postman
-
-### 🧠 Soft Skills
-- Problem Solving
-- Analytical Thinking
-- Design Thinking Approach
+Focused on continuous learning, system design, cloud deployment, and building production-ready applications.
 
 ---
 
-## 📌 Projects
+# ☁️ Cloud & DevOps Skills
 
-### 🚀 Student Target-Based Learning & Guidance System
-- Built using Java & Spring Boot
-- Developed RESTful APIs for CGPA tracking
-- Implemented semester progress evaluation logic
-- Helps students monitor and achieve target CGPA
+## AWS Cloud
 
-### 🚕 Taxi Booking System (Low-Level Design)
-- Developed using Core Java & OOP concepts
-- Implemented ride allocation based on availability and earnings
-- Managed booking lifecycle and fare calculation
-- Used Java Collections for in-memory data handling
-  
+* EC2
+* S3
+* VPC
+* IAM
+* RDS
+* Elastic Beanstalk
+* CloudWatch
+* Route 53
 
-###  Employee Management System (CRUD Operation) 
+## DevOps & Automation
 
-- Java, Spring Boot, JPA, MySQL
-- REST APIs with CRUD operations
-- Employee add, update, delete & view features
-- Exception handling and validation implemented
+* Jenkins
+* GitHub Actions
+* CI/CD Pipelines
+* Terraform
+* Ansible
+* Infrastructure as Code (IaC)
+
+## Containers & Orchestration
+
+* Docker
+* Kubernetes (Basics)
+
 ---
 
-## 🎓 Education
-- 🎓 B.E – Electronics and Communication Engineering  
-  SNS College of Technology (CGPA: 8.6)
+# 💻 Backend Development
+
+## Programming Languages
+
+* Java
+
+## Frameworks & APIs
+
+* Spring Boot
+* REST APIs
+* Hibernate
+* JDBC
+
+## Database
+
+* MySQL
+* Oracle SQL
 
 ---
 
-## 📫 Contact
-- 📧 Email: prakashkaruppusamy136@gmail.com
-- 🔗 Portfolio: https://prakash-k-portfolio-website.vercel.app/
-- 🔗 GitHub: https://github.com/prakashDevp
-- 🔗 LinkedIn: https://linkedin.com/in/prakash--k
+# 🌐 Frontend Basics
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+# 🛠️ Tools & Platforms
+
+* Git & GitHub
+* Linux
+* VS Code
+* Eclipse IDE
+* Postman
+* Maven
+
+---
+
+# 📌 Projects
+
+## 🎓 Student Target-Based Learning & Guidance System
+
+* Built using Java & Spring Boot
+* Developed RESTful APIs for CGPA tracking
+* Implemented semester-wise progress evaluation logic
+* Deployed backend application on AWS
+* Integrated CI/CD concepts and cloud deployment workflow
+
+## ☁️ AWS Cloud Deployment Project
+
+* Deployed Spring Boot application using AWS Elastic Beanstalk
+* Configured cloud infrastructure and application hosting
+* Worked with IAM, EC2, RDS, and CloudWatch services
+* Managed deployment packaging and environment configuration
+
+## 🚕 Taxi Booking System (Low-Level Design)
+
+* Developed using Core Java & OOP concepts
+* Implemented ride allocation and fare calculation logic
+* Used Java Collections for efficient in-memory processing
+
+## 👨‍💼 Employee Management System
+
+* Java + Spring Boot + MySQL
+* CRUD REST APIs implementation
+* Exception handling and validation
+* Layered architecture using JPA & Hibernate
+
+---
+
+# 🧠 Soft Skills
+
+* Problem Solving
+* Analytical Thinking
+* Design Thinking
+* Team Collaboration
+* Continuous Learning
+
+---
+
+# 🎓 Education
+
+🎓 B.E – Electronics and Communication Engineering
+SNS College of Technology — CGPA: 8.6
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [prakashkaruppusamy136@gmail.com](mailto:prakashkaruppusamy136@gmail.com)
+
+🔗 Portfolio:
+https://prakash-k-portfolio-website.vercel.app/
+
+🔗 GitHub:
+https://github.com/prakashDevp
+
+🔗 LinkedIn:
+https://linkedin.com/in/prakash--k
