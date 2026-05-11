@@ -129,7 +129,7 @@ Focused on continuous learning, system design, cloud deployment, and building pr
 # 🎓 Education
 
 🎓 B.E – Electronics and Communication Engineering
-SNS College of Technology — CGPA: 8.6
+SNS College of Technology — CGPA: 8.4
 
 ---
 
